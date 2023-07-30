@@ -13,9 +13,19 @@ A página foi desenvolvida a partir de uma base de projeto disponibilizada, onde
   ![1](https://github.com/barbaramir/desenvolve_calendario/assets/101302079/e67599ad-fc5f-4e9b-813a-d6ed62ebfadd)
 
 - Modificação de um evento adicionado ao clicar sobre o componente
+  ![2](https://github.com/barbaramir/desenvolve_calendario/assets/101302079/2fd3b286-b90b-4414-ad2b-05dcdecdcb3f)
+
 - Finalização da tarefa através da representação tachada na lista de tarefas
+  ![3](https://github.com/barbaramir/desenvolve_calendario/assets/101302079/f7d43deb-95c5-44cd-8bab-6e8bd13c6940)
+
 - Exclusão de um evento, sendo removido da lista de tarefas e do calendário
-- Filtragem de eventos por data
+  ![4](https://github.com/barbaramir/desenvolve_calendario/assets/101302079/2a698f1a-4db2-413b-a2f0-d36a392ce7ab)
+
+- Filtragem de eventos por data<br>
+  ![5](https://github.com/barbaramir/desenvolve_calendario/assets/101302079/8c10f194-3255-4766-8258-ea22b976c2a4)
+  <br>
+  
+- Validar se data adicionada na tarefa é válida
 
 ## :ballot_box_with_check: Tecnologias utilizadas no projeto
 
