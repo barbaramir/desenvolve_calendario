@@ -10,6 +10,8 @@ A aplicação de calendário e lista de tarefas foi desenvolvida ao longo do cur
 ## :hammer: Funcionalidades do projeto
 A página foi desenvolvida a partir de uma base de projeto disponibilizada, onde o principal objetivo foi a refatoração de códigos para gerenciamento dos formulários e dos estados dos componentes (eventos) a partir da biblioteca Recoil. Entre as funcionalidades implementadas estão: <br>
 - Adição de eventos ao calendário vinculado a uma lista de tarefas
+  ![1](https://github.com/barbaramir/desenvolve_calendario/assets/101302079/e67599ad-fc5f-4e9b-813a-d6ed62ebfadd)
+
 - Modificação de um evento adicionado ao clicar sobre o componente
 - Finalização da tarefa através da representação tachada na lista de tarefas
 - Exclusão de um evento, sendo removido da lista de tarefas e do calendário
